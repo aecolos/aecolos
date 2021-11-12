@@ -1,4 +1,4 @@
-#### Este é um fórum de apoio lectivo a alunos do AE Colos. Aqui poderão ser colocadas dúvidas e questões relativas a cada disciplina pelos alunos e respondidas consoante a disponibilidade do docente responsável.
+#### Este é um fórum de apoio lectivo a alunos do [AE Colos](https://agvcolos.wixsite.com/agvcolos). Aqui poderão ser colocadas dúvidas e questões relativas a cada disciplina pelos alunos e respondidas consoante a disponibilidade do docente responsável.
 
 O procedimento a adoptar consiste em aceder à opção `issues` e abrir um novo issue com a dúvida/questão a colocar, adicionar a label correspondente à disciplina sobre a qual incide a dúvida e efectuar `commit`. (Ver [exemplo](https://github.com/aecolos/aecolos/issues/2) para a cadeira de TIC).
 
